@@ -17,8 +17,6 @@ const PokemonDetailScreen = ({route}) => {
     route.params?.name || 'ivysaur',
   );
 
-  console.log(`ccccc data : ${JSON.stringify(data?.abilities)}`);
-
   if (isLoading) {
     return <ActivityIndicator size="large" />;
   }
