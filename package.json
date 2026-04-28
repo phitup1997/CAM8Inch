@@ -9,7 +9,7 @@
     "start": "react-native start",
     "test": "jest",
     "postinstall": "patch-package",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "codegenConfig": {
     "name": "MyModuleSpecs",
