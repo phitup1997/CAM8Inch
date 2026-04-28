@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal Component matches snapshot 1`] = `
+<Modal
+  animationType="slide"
+  hardwareAccelerated={false}
+  style={
+    {
+      "alignItems": "center",
+      "borderBottomLeftRadius": 12,
+      "borderBottomRightRadius": 12,
+      "borderTopLeftRadius": 12,
+      "borderTopRightRadius": 12,
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "paddingBottom": 20,
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "paddingTop": 20,
+    }
+  }
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#FFFF00",
+        "borderBottomLeftRadius": 12,
+        "borderBottomRightRadius": 12,
+        "borderTopLeftRadius": 12,
+        "borderTopRightRadius": 12,
+        "overflow": "hidden",
+        "paddingBottom": 20,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "paddingTop": 20,
+        "shadowColor": "rgba(0,0,0,0.1)",
+        "shadowOffset": {
+          "height": 4,
+          "width": 0,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 6,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#333",
+          "fontSize": 20,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Modal Text
+    </Text>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "color": "#333",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#333",
+            "fontSize": 20,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Close Button
+      </Text>
+    </View>
+  </View>
+</Modal>
+`;

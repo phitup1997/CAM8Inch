@@ -1,0 +1,198 @@
+> Task :gradle-plugin:settings-plugin:checkKotlinGradlePluginConfigurationErrors
+> Task :gradle-plugin:shared:checkKotlinGradlePluginConfigurationErrors
+> Task :gradle-plugin:shared:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:shared:compileJava NO-SOURCE
+> Task :gradle-plugin:shared:processResources NO-SOURCE
+> Task :gradle-plugin:shared:classes UP-TO-DATE
+> Task :gradle-plugin:shared:jar UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:settings-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:jar UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:checkKotlinGradlePluginConfigurationErrors
+> Task :gradle-plugin:react-native-gradle-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:react-native-gradle-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:jar UP-TO-DATE
+> Task :app:generateAutolinkingNewArchitectureFiles UP-TO-DATE
+> Task :app:generateAutolinkingPackageList UP-TO-DATE
+> Task :app:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :app:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-safe-area-context:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-safe-area-context:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-safe-area-context:preBuild UP-TO-DATE
+> Task :react-native-safe-area-context:preDebugBuild UP-TO-DATE
+> Task :react-native-safe-area-context:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-screens:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-screens:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-screens:preBuild UP-TO-DATE
+> Task :react-native-screens:preDebugBuild UP-TO-DATE
+> Task :react-native-screens:writeDebugAarMetadata UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugResValues UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugResources UP-TO-DATE
+> Task :react-native-safe-area-context:packageDebugResources UP-TO-DATE
+> Task :react-native-screens:generateDebugResValues UP-TO-DATE
+> Task :react-native-screens:generateDebugResources UP-TO-DATE
+> Task :react-native-screens:packageDebugResources UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-safe-area-context:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-safe-area-context:processDebugManifest UP-TO-DATE
+> Task :react-native-screens:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-screens:processDebugManifest UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-safe-area-context:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugRFile UP-TO-DATE
+> Task :react-native-screens:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-screens:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-screens:generateDebugRFile UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :react-native-safe-area-context:checkKotlinGradlePluginConfigurationErrors
+> Task :react-native-safe-area-context:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugKotlin UP-TO-DATE
+> Task :react-native-safe-area-context:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-screens:checkKotlinGradlePluginConfigurationErrors
+> Task :react-native-screens:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-screens:javaPreCompileDebug UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:mergeDebugShaders UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugShaders NO-SOURCE
+> Task :react-native-safe-area-context:generateDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:packageDebugAssets UP-TO-DATE
+> Task :react-native-screens:mergeDebugShaders UP-TO-DATE
+> Task :react-native-screens:compileDebugShaders NO-SOURCE
+> Task :react-native-screens:generateDebugAssets UP-TO-DATE
+> Task :react-native-screens:packageDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :react-native-safe-area-context:processDebugJavaRes UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :app:configureCMakeDebug[arm64-v8a]
+
+> Task :app:buildCMakeDebug[arm64-v8a]
+C/C++: ninja: Entering directory `/Users/tranquangphi/Desktop/RNBaseProj/android/app/.cxx/Debug/4o6w3230/arm64-v8a'
+C/C++: /Users/tranquangphi/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/tranquangphi/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dreact_codegen_rnscreens_EXPORTS -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/. -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/reactnative/include -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/jsi/include -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/eb4b98dea289284ca2b26e9265bd49ab/transformed/fbjni-0.6.0/prefab/modules/fbjni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fexceptions -frtti -std=c++20 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -Wno-dollar-in-identifier-extension -DLOG_TAG=\"ReactNative\" -DFOLLY_NO_CONFIG=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp.o -MF rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp.o.d -o rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp.o -c /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp
+C/C++: In file included from /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp:3:
+C/C++: /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.h:3:10: fatal error: 'react/fabric/FabricUIManagerBinding.h' file not found
+C/C++: #include <react/fabric/FabricUIManagerBinding.h>
+C/C++:          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: 1 error generated.
+C/C++: /Users/tranquangphi/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/tranquangphi/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dappmodules_EXPORTS -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup -I/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni/. -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/. -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens -I/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/source/codegen/jni/. -I/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/source/codegen/jni/react/renderer/components/MyModuleSpecs -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/eb4b98dea289284ca2b26e9265bd49ab/transformed/fbjni-0.6.0/prefab/modules/fbjni/include -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/jsi/include -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -Wall -Werror -Wno-error=cpp -fexceptions -frtti -std=c++20 -DLOG_TAG=\"ReactNative\" -DFOLLY_NO_CONFIG=1 -DREACT_NATIVE_APP_CODEGEN_HEADER=\"MyModuleSpecs.h\" -DREACT_NATIVE_APP_COMPONENT_DESCRIPTORS_HEADER=\"react/renderer/components/MyModuleSpecs/ComponentDescriptors.h\" -DREACT_NATIVE_APP_COMPONENT_REGISTRATION=MyModuleSpecs_registerComponentDescriptorsFromCodegen -DREACT_NATIVE_APP_MODULE_PROVIDER=MyModuleSpecs_ModuleProvider -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT CMakeFiles/appmodules.dir/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -MF CMakeFiles/appmodules.dir/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o.d -o CMakeFiles/appmodules.dir/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -c /Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp
+C/C++: In file included from /Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:12:
+C/C++: In file included from /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/rnscreens.h:19:
+C/C++: In file included from /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenComponentDescriptor.h:6:
+C/C++: /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.h:3:10: fatal error: 'react/fabric/FabricUIManagerBinding.h' file not found
+C/C++: #include <react/fabric/FabricUIManagerBinding.h>
+C/C++:          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: 1 error generated.
+
+> Task :app:buildCMakeDebug[arm64-v8a] FAILED
+
+> Task :react-native-screens:compileDebugKotlin FAILED
+e: file:///Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/PointerEventsBoxNoneImpl.kt:6:10 Class 'PointerEventsBoxNoneImpl' is not abstract and does not implement abstract member public abstract fun getPointerEvents(): PointerEvents! defined in com.facebook.react.uimanager.ReactPointerEventsView
+e: file:///Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/PointerEventsBoxNoneImpl.kt:10:5 'pointerEvents' overrides nothing
+e: file:///Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/bottomsheet/DimmingViewPointerEvents.kt:6:10 Class 'DimmingViewPointerEventsImpl' is not abstract and does not implement abstract member public abstract fun getPointerEvents(): PointerEvents! defined in com.facebook.react.uimanager.ReactPointerEventsView
+e: file:///Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/bottomsheet/DimmingViewPointerEvents.kt:9:5 'pointerEvents' overrides nothing
+e: file:///Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/bottomsheet/DimmingViewPointerEvents.kt:13:10 Class 'DimmingViewPointerEventsProxy' is not abstract and does not implement abstract member public abstract fun getPointerEvents(): PointerEvents! defined in com.facebook.react.uimanager.ReactPointerEventsView
+e: file:///Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/bottomsheet/DimmingViewPointerEvents.kt:16:5 'pointerEvents' overrides nothing
+e: file:///Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/bottomsheet/SheetDelegate.kt:389:24 'if' must have both main and 'else' branches if used as an expression
+e: file:///Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/gamma/tabs/TabScreenViewManager.kt:144:18 Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver of type ReadableMap?
+e: file:///Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/safearea/SafeAreaView.kt:110:13 Operator '!=' cannot be applied to 'Insets' and 'EdgeInsets'
+
+FAILURE: Build completed with 2 failures.
+
+1: Task failed with an exception.
+-----------
+* What went wrong:
+Execution failed for task ':app:buildCMakeDebug[arm64-v8a]'.
+> com.android.ide.common.process.ProcessException: ninja: Entering directory `/Users/tranquangphi/Desktop/RNBaseProj/android/app/.cxx/Debug/4o6w3230/arm64-v8a'
+  [0/2] Re-checking globbed directories...
+  [1/31] Linking CXX shared library /Users/tranquangphi/Desktop/RNBaseProj/android/app/build/intermediates/cxx/Debug/4o6w3230/obj/arm64-v8a/libreact_codegen_safeareacontext.so
+  [2/31] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp.o
+  FAILED: rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp.o 
+  /Users/tranquangphi/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/tranquangphi/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dreact_codegen_rnscreens_EXPORTS -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/. -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/reactnative/include -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/jsi/include -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/eb4b98dea289284ca2b26e9265bd49ab/transformed/fbjni-0.6.0/prefab/modules/fbjni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fexceptions -frtti -std=c++20 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -Wno-dollar-in-identifier-extension -DLOG_TAG=\"ReactNative\" -DFOLLY_NO_CONFIG=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp.o -MF rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp.o.d -o rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp.o -c /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp
+  In file included from /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.cpp:3:
+  /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.h:3:10: fatal error: 'react/fabric/FabricUIManagerBinding.h' file not found
+  #include <react/fabric/FabricUIManagerBinding.h>
+           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  1 error generated.
+  [3/31] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSBottomTabsState.cpp.o
+  [4/31] Building CXX object CMakeFiles/appmodules.dir/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+  FAILED: CMakeFiles/appmodules.dir/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o 
+  /Users/tranquangphi/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/tranquangphi/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dappmodules_EXPORTS -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup -I/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni/. -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/. -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni -I/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnscreens -I/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/source/codegen/jni/. -I/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/source/codegen/jni/react/renderer/components/MyModuleSpecs -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/eb4b98dea289284ca2b26e9265bd49ab/transformed/fbjni-0.6.0/prefab/modules/fbjni/include -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/jsi/include -isystem /Users/tranquangphi/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -Wall -Werror -Wno-error=cpp -fexceptions -frtti -std=c++20 -DLOG_TAG=\"ReactNative\" -DFOLLY_NO_CONFIG=1 -DREACT_NATIVE_APP_CODEGEN_HEADER=\"MyModuleSpecs.h\" -DREACT_NATIVE_APP_COMPONENT_DESCRIPTORS_HEADER=\"react/renderer/components/MyModuleSpecs/ComponentDescriptors.h\" -DREACT_NATIVE_APP_COMPONENT_REGISTRATION=MyModuleSpecs_registerComponentDescriptorsFromCodegen -DREACT_NATIVE_APP_MODULE_PROVIDER=MyModuleSpecs_ModuleProvider -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT CMakeFiles/appmodules.dir/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -MF CMakeFiles/appmodules.dir/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o.d -o CMakeFiles/appmodules.dir/Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -c /Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp
+  In file included from /Users/tranquangphi/Desktop/RNBaseProj/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:12:
+  In file included from /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/rnscreens.h:19:
+  In file included from /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenComponentDescriptor.h:6:
+  /Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNodeCommitHook.h:3:10: fatal error: 'react/fabric/FabricUIManagerBinding.h' file not found
+  #include <react/fabric/FabricUIManagerBinding.h>
+           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  1 error generated.
+  [5/31] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSSafeAreaViewState.cpp.o
+  [6/31] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.cpp.o
+  [7/31] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSFullWindowOverlayShadowNode.cpp.o
+  [8/31] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderConfigShadowNode.cpp.o
+  [9/31] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenStackHeaderSubviewShadowNode.cpp.o
+  [10/31] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSModalScreenShadowNode.cpp.o
+  [11/31] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/tranquangphi/Desktop/RNBaseProj/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSSafeAreaViewShadowNode.cpp.o
+  ninja: build stopped: subcommand failed.
+  
+  C++ build system [build] failed while executing:
+      /Users/tranquangphi/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+        -C \
+        /Users/tranquangphi/Desktop/RNBaseProj/android/app/.cxx/Debug/4o6w3230/arm64-v8a \
+        appmodules \
+        react_codegen_rnscreens \
+        react_codegen_safeareacontext
+    from /Users/tranquangphi/Desktop/RNBaseProj/android/app
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+==============================================================================
+
+2: Task failed with an exception.
+-----------
+* What went wrong:
+Execution failed for task ':react-native-screens:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+==============================================================================
+
+BUILD FAILED in 8s
+80 actionable tasks: 9 executed, 71 up-to-date
