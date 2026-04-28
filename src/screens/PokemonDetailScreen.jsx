@@ -21,25 +21,6 @@ const PokemonDetailScreen = ({route}) => {
     return <ActivityIndicator size="large" />;
   }
 
-  // <View>
-  //     <View style={styles.infoCard}>
-  //       <Text style={styles.description}>{data.description}</Text>
-
-  //       <Text style={styles.sectionTitle}>Pokédex Data</Text>
-  //       <DataRow label="Category" value={data.category} />
-  //       <DataRow label="Height" value={`${data.height} m`} />
-  //       <DataRow label="Weight" value={`${data.weight} kg`} />
-  //       <DataRow label="Abilities" value={data.abilities} isVertical />
-
-  //       <Text style={styles.sectionTitle}>Training</Text>
-  //       <DataRow label="Catch Rate" value={data.training.catchRate} />
-  //       <DataRow label="Base Happiness" value={data.training.happiness} />
-  //       <DataRow label="Base Experience" value={data.baseExp} />
-  //       <DataRow label="Growth Rate" value={data.training.growthRate} />
-  //     </View>
-  //   </View>
-  // );
-
   return (
     <SafeAreaView style={{flex: 1, backgroundColor: '#78C850'}}>
       <ScrollView
